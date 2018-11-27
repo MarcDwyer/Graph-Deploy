@@ -67,7 +67,7 @@ app.use('/authenticate', cors(), (req, res) => {
   }
 })
 
-app.use('/', express.static('./public/forumtimes/build'));
+app.use('/', express.static('./public/build'));
 
 mongoose.connection.once('open', () => {
   console.log('db connected');
