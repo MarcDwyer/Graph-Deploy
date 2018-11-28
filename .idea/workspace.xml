@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9c55d1c-b1a0-40b4-8195-7bef5acba7b1" name="Default Changelist" comment="" />
+    <list default="true" id="c9c55d1c-b1a0-40b4-8195-7bef5acba7b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/precache-manifest.0b00b1a5a0122e64e43321d16aec9531.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/static/js/main.b2db3b25.chunk.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+            <state relative-caret-position="24">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -61,7 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,6 +84,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,11 +121,15 @@
       <workItem from="1543286671383" duration="12053000" />
       <workItem from="1543353278855" duration="801000" />
       <workItem from="1543376734038" duration="130000" />
+      <workItem from="1543377195733" duration="81000" />
+      <workItem from="1543379400622" duration="65000" />
+      <workItem from="1543379504098" duration="50000" />
+      <workItem from="1543379613327" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13829000" />
+    <option name="totallyTimeSpent" value="14042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -203,8 +214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+        <state relative-caret-position="24">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
